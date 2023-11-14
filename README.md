@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jane.
-- 👀 I’m interested in coding and especially development.
+- 👀 I’m interested in coding and especially frontend development.
 - 🌱 I’m currently learning backend development.
   
 
