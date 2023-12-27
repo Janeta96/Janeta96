@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jane.
-- 👀 I’m interested in coding and especially frontend development.
-- 🌱 I’m currently learning backend development.
+-👩‍💻 Passionate about coding in both backend and frontend development.
+-🌱 Always curious to discover and explore more in the world of technology.
+
   
 
 <!---
